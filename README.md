@@ -78,7 +78,9 @@ Create a `.env` file in the project root folder:
 
 
 GROQ_API_KEY=your_groq_api_key
+
 SENDER_EMAIL=your_email@gmail.com
+
 SENDER_PASSWORD=your_email_app_password
 
 # ▶️ How the Agent Works
